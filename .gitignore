@@ -1,0 +1,15 @@
+.DS_Store
+.env*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+build/
+dist/
+# Keep data & outputs out of git (use Drive)
+data/
+outputs/
+pdfs/
